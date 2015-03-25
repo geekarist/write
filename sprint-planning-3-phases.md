@@ -1,6 +1,6 @@
 # Des réunions de moins d'une heure pour un Sprint Planning efficace
 
-## Le problème
+## Le problème
 
 Notre sprint planning ne fonctionnait pas : une réunion de deux heures en début de sprint, suivie de plusieurs autres, jusqu'à ce que le périmètre du sprint soit rempli à la hauteur de la vélocité de l'équipe.
 
