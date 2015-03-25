@@ -1,10 +1,10 @@
-# Sprint planning en 3 phases
+# Des réunions de moins d'une heure pour un Sprint Planning efficace
 
 ## Le problème
 
 Notre sprint planning ne fonctionnait pas : une réunion de deux heures en début de sprint, suivie de plusieurs autres, jusqu'à ce que le périmètre du sprint soit rempli à la hauteur de la vélocité de l'équipe.
 
-C'était fastidieux, nous avions du mal à garder notre concentration, trop long, et pourtant les rétrospectives ont remonté un manque d'échanges entre PO et développeurs.
+C'était fastidieux, nous avions du mal à garder notre concentration, trop formel, trop long, et pourtant les rétrospectives ont remonté un manque d'échanges entre PO et développeurs.
 
 ## La solution
 
@@ -14,7 +14,7 @@ Pour travailler sur le backlog, nous avons maintenant trois types de réunions :
 
 - Backlog review: 30 minutes chaque semaine. Les stories sont prêtes à estimer, le designer a préparé quelques maquettes. L'équipe estime la complexité des stories, mais ne les embarque pas tout de suite dans le sprint.
 
-- Sprint planning: 1 heure au début de chaque sprint. Les stories sont estimées, les développeurs vont décider si elles peuvent être terminées au prochain sprint, et les découpent en tâches techniques.
+- Sprint planning: une heure au début de chaque sprint. Les stories sont estimées, les développeurs vont décider si elles peuvent être terminées au prochain sprint, et les découpent en tâches techniques.
 
 ## Au final
 
